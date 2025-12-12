@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**zakxd7/zakxd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍🎨 Who am I?
 
-Here are some ideas to get you started:
+Hi! I'm Zak, an aspiring Web & UI Designer with a strong eye for detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy drawing, designing icons, and creating clean, simple interfaces.
+
+🔧 What am I currently working on? :
+
+- Improving my Figma skills
+
+- Learning & practicing HTML / CSS
+
+- Building small UI projects to sharpen my design sense
+
+🛠️ Tools I use :
+
+  🎨 Figma (UI design, icons, prototypes)
+
+  💻 HTML / CSS (basic front-end layouts)
+
+  ✏️ Drawing tools for sketches & concept ideas
