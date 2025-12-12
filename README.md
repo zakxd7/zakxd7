@@ -13,7 +13,7 @@ I enjoy drawing, designing icons, and creating clean, simple interfaces.
 - Learning & practicing HTML / CSS
 
 - Building small UI projects to sharpen my design sense
-
+---
 🛠️ Tools I use :
 
   🎨 Figma (UI design, icons, prototypes)
@@ -21,3 +21,5 @@ I enjoy drawing, designing icons, and creating clean, simple interfaces.
   💻 HTML / CSS (basic front-end layouts)
 
   ✏️ Drawing tools for sketches & concept ideas
+
+  🧰 VS Code, Git & GitHub
