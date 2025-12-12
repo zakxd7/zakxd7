@@ -2,7 +2,7 @@
 
 🧑‍🎨 Who am I?
 
-Hi! I'm Zak, an aspiring Web & UI Designer with a strong eye for detail.
+Hi! I'm [Zak], an aspiring Web & UI Designer with a strong eye for detail.
 
 I enjoy drawing, designing icons, and creating clean, simple interfaces.
 
